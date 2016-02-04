@@ -1,2 +1,2 @@
-# ICS3UEassignment1
-Website Assignment
+# Website Assignment
+For my ComSci class.
